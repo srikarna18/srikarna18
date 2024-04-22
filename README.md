@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @srikarna18
-- 👀 I’m interested in exploring new things.
-- 🌱 I’m currently learning DevOps and cloud...
-- 💞️ I’m looking to collaborate on working on tasks and projects...
+- 👋 Hi, I’m srikarna lingampelly
+- 👀 I’m interested in exploring new technologies..
+- 🌱 I’m currently learning DevOps and cloud..
+- 💞️ I’m looking to collaborate on working on tasks and projects..
 - 📫 Reach me on lsrikarna@gmail.com.
-!---
-srikarna18/srikarna18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
